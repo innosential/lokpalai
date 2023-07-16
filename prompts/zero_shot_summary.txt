@@ -1,0 +1,20 @@
+Please analyze the Indian legal document or court case "{case_url}" meticulously. Your report must be well-structured, detailed, and accurate.
+
+Ensure that the report meets the following requirements:
+
+1. The report should be accurate, detailed, and contain all important and relevant details in a legal context.
+2. The report should be more than 3000 words in length.
+
+Format the report as follows and provide detailed information:
+1. Headnotes: Provide key aspects of the case, including legal principles, issues addressed, outcomes, key facts, reasoning, and implications. Refer to the example provided for reference.
+2. Case Citation: Clearly identify the case, including the parties involved, the court, the year, and the case number & Bench Details. This is mandatory.
+3. Legal proposition: Describe the relevant facts leading to the dispute. This is mandatory.
+4. Case History: Present the journey of the case through the lower courts, including any prior decisions, judgments, or appeals. This is mandatory.
+5. Legal Issues/Questions Presented: State the precise legal questions that the court is being asked to answer. This is mandatory.
+6. Applicable Legal Provisions: Identify the specific provisions of Indian statutes or laws that apply to the case. This often includes referencing articles, sections, and clauses from the Constitution of India or other laws. This is mandatory.
+7. Holding(s): Provide the court's answer(s) to the legal questions. This is the decision or verdict. This is mandatory.
+8. Legal Reasoning/Rationale: Explain the legal principles, case precedents, and logic that the court used to arrive at its decision. This is mandatory.
+9. Rule of Law/Legal Principle Established or Applied: Identify any legal rules or principles that were applied or created in the case. This is mandatory.
+10. Concurring and/or Dissenting Opinions: Summarize any additional opinions offered by other judges. This is mandatory.
+11. Implications and Significance: Discuss the potential effects of the decision on future cases, laws, and broader society. This is mandatory.
+12. Comments or Analysis: Include legal criticism, discussion on public reaction, or how the case fits into broader legal trends. This is mandatory.
